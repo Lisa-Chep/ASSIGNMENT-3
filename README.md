@@ -2,8 +2,8 @@
 # Pointer Concepts in C – Assignment
 
 ## Student Information
-- Name: ______________________
-- Course: ____________________
+- Name: __LISA CHEPKOECH KIPYEGO ENE 211-0016/2024____________________
+- Course: ___EEE_________________
 - Assignment Title: Pointer Concepts
 - Programming Language: C
 
